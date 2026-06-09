@@ -326,3 +326,10 @@ Dùng lại block:
   Screen3
 
 mà không cần tạo lại.
+
+
+2. android app
+
+   cài android
+
+   <img width="1903" height="1008" alt="image" src="https://github.com/user-attachments/assets/491b740c-1be9-4c8f-adeb-643cb1400b16" />
