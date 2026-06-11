@@ -334,7 +334,7 @@ mà không cần tạo lại.
 
    <img width="1903" height="1008" alt="image" src="https://github.com/user-attachments/assets/491b740c-1be9-4c8f-adeb-643cb1400b16" />
 
-- APP1 - DỮ LIỆU TRONG ASSETS
+# APP1 - DỮ LIỆU TRONG ASSETS
 
 Ý tưởng:
 
@@ -368,3 +368,33 @@ Không cần Internet
 
   <img width="1277" height="925" alt="image" src="https://github.com/user-attachments/assets/962becd9-7717-4ea9-a03f-9a55e0075820" />
 
+- MainActivity.java
+  
+<img width="1227" height="862" alt="image" src="https://github.com/user-attachments/assets/46c2d6da-910d-44e7-bc86-4cb036d6864c" />
+
+-Đặc thù dữ liệu
+
+.Dữ liệu dạng JSON.
+.Có cấu trúc gồm title và content.
+
+-Thuật toán
+
+   Đọc file JSON
+   ↓
+   Phân tích JSON
+   ↓
+   Lấy dữ liệu
+   ↓
+   Hiển thị lên TextView
+   
+- Đối tượng hiển thị : TextView
+
+# APP2 (android studio)
+
+- TẠO 2 ACTIVITY MỚI
+
+  <img width="423" height="182" alt="image" src="https://github.com/user-attachments/assets/9e1e0b74-1e56-4634-af63-e7ba55c12cdd" />
+
+- THIẾT KẾ MAINACTIVITY
+
+  <img width="1297" height="991" alt="image" src="https://github.com/user-attachments/assets/bcb78ac2-6ed8-49fd-9bee-ba0caaa9077b" />
