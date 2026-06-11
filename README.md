@@ -333,3 +333,38 @@ mà không cần tạo lại.
    cài android
 
    <img width="1903" height="1008" alt="image" src="https://github.com/user-attachments/assets/491b740c-1be9-4c8f-adeb-643cb1400b16" />
+
+- APP1 - DỮ LIỆU TRONG ASSETS
+
+Ý tưởng:
+
+Cẩm nang Android Offline
+
+Chức năng:
+
+Đọc dữ liệu từ guide.json
+Hiển thị nội dung lên màn hình
+Không cần Internet
+
+- TẠO PROJECT, CẤU TRÚC PROJECT
+
+ . app
+ . java
+ . res
+ . AndroidManifest.xml
+
+ - TẠO THƯ MỤC ASSETS
+
+   app
+    └─ src
+       └─ main
+          └─ assets
+
+   - FILE guide.json
+
+   <img width="1122" height="666" alt="image" src="https://github.com/user-attachments/assets/ebe2683d-820e-4ec4-bba0-4e4156653171" />
+
+-  Thiết kế giao diện bằng XML
+
+  <img width="1277" height="925" alt="image" src="https://github.com/user-attachments/assets/962becd9-7717-4ea9-a03f-9a55e0075820" />
+
