@@ -348,10 +348,7 @@ Không cần Internet
 
 - TẠO PROJECT, CẤU TRÚC PROJECT
 
- . app
- . java
- . res
- . AndroidManifest.xml
+<img width="1127" height="797" alt="image" src="https://github.com/user-attachments/assets/364ba5ae-620d-4e0f-8249-2b8ebfc06317" />
 
  - TẠO THƯ MỤC ASSETS
 
@@ -362,39 +359,45 @@ Không cần Internet
 
    - FILE guide.json
 
-   <img width="1122" height="666" alt="image" src="https://github.com/user-attachments/assets/ebe2683d-820e-4ec4-bba0-4e4156653171" />
+<img width="1230" height="988" alt="image" src="https://github.com/user-attachments/assets/fdf90bac-d366-45da-b2f3-ce3d6b835456" />
 
 -  Thiết kế giao diện bằng XML
 
-  <img width="1277" height="925" alt="image" src="https://github.com/user-attachments/assets/962becd9-7717-4ea9-a03f-9a55e0075820" />
+ <img width="1217" height="958" alt="image" src="https://github.com/user-attachments/assets/3803a805-b276-49f8-8cf7-4b16455c0e1c" />
 
 - MainActivity.java
   
-<img width="1227" height="862" alt="image" src="https://github.com/user-attachments/assets/46c2d6da-910d-44e7-bc86-4cb036d6864c" />
+<img width="1236" height="996" alt="image" src="https://github.com/user-attachments/assets/a5c36991-2856-4a44-b207-c4c80ab9400c" />
 
--Đặc thù dữ liệu
-
-.Dữ liệu dạng JSON.
-.Có cấu trúc gồm title và content.
-
--Thuật toán
-
-   Đọc file JSON
-   ↓
-   Phân tích JSON
-   ↓
-   Lấy dữ liệu
-   ↓
-   Hiển thị lên TextView
-   
-- Đối tượng hiển thị : TextView
+- Đặc thù dữ liệu
+.Dữ liệu có cấu trúc JSON.
+- Mỗi phần tử gồm:
+    - title
+    - content
+- Thuật toán
+    Đọc file JSON
+    ↓
+    Duyệt toàn bộ mảng JSON
+    ↓
+    Ghép nội dung bằng StringBuilder
+    ↓
+    Hiển thị lên TextView
+- Đối tượng hiển thị
+   . ScrollView
+   . TextView
+- Tiền xử lý dữ liệu
+.Sử dụng StringBuilder để ghép nhiều bản ghi thành một nội dung hoàn chỉnh trước khi hiển thị.
 
 # APP2 (android studio)
 
+- Tạo project
+
+  <img width="1123" height="802" alt="image" src="https://github.com/user-attachments/assets/332983c3-56a6-4215-87b1-04e314deee49" />
+
 - TẠO 2 ACTIVITY MỚI
 
-  <img width="423" height="182" alt="image" src="https://github.com/user-attachments/assets/9e1e0b74-1e56-4634-af63-e7ba55c12cdd" />
+<img width="671" height="427" alt="image" src="https://github.com/user-attachments/assets/8b7550a1-9d09-47d2-b0b3-8612f250ef0a" />
 
-- THIẾT KẾ MAINACTIVITY
+- THIẾT KẾ MÀN HÌNH ABOUT
 
-  <img width="1297" height="991" alt="image" src="https://github.com/user-attachments/assets/bcb78ac2-6ed8-49fd-9bee-ba0caaa9077b" />
+<img width="1282" height="987" alt="image" src="https://github.com/user-attachments/assets/cb24a38d-04eb-48d7-9d5c-c93e72b01187" />
