@@ -369,6 +369,10 @@ Không cần Internet
   
 <img width="1236" height="996" alt="image" src="https://github.com/user-attachments/assets/a5c36991-2856-4a44-b207-c4c80ab9400c" />
 
+- Hiển thị trên điện thoại
+
+  <img width="377" height="851" alt="image" src="https://github.com/user-attachments/assets/68642ad2-59ed-4d15-853a-2a6f0474689e" />
+
 - Đặc thù dữ liệu
 .Dữ liệu có cấu trúc JSON.
 - Mỗi phần tử gồm:
