@@ -410,3 +410,12 @@ Không cần Internet
 
 <img width="1378" height="998" alt="image" src="https://github.com/user-attachments/assets/1ab15d0d-5b9d-4a1d-ab4f-2103fc950fe2" />
 
+- Giao diện App2
+
+  <img width="386" height="853" alt="image" src="https://github.com/user-attachments/assets/4ca8c853-dbbd-466f-b84e-4c653bda359f" />
+
+- Giao diện giải PTB2
+
+  <img width="382" height="855" alt="image" src="https://github.com/user-attachments/assets/17997890-cea3-4423-bea8-0e91956c8226" />
+
+<img width="377" height="852" alt="image" src="https://github.com/user-attachments/assets/06b82c30-cbcc-40f4-93cc-867587771823" />
